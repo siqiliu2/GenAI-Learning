@@ -1,0 +1,7 @@
+flask
+transformers
+torch
+openai
+python-dotenv
+langchain
+langchain_community
