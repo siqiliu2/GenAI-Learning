@@ -7,7 +7,7 @@ from langchain.schema import StrOutputParser
 
 # Load environment variables
 load_dotenv()
-os.environ["OPENAI_API_KEY"] = "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"
+os.environ["OPENAI_API_KEY"] = "Your API Key"
 
 # Define the ChatOpenAI model
 model = ChatOpenAI(model="gpt-4o-mini")
